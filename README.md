@@ -51,6 +51,7 @@ Additionally, please consult the [releases](https://github.com/Infineon/XMC-for-
 In order to use Infineon's XMC microcontroller boards in Arduino you need [SEGGER J-Link](https://www.segger.com/downloads/jlink) installed on your machine first. Please follow [this link](https://www.segger.com/downloads/jlink) and install the J-Link Software and Documentation Pack for your respective operating system (OS).
 
 ![J-Link](resources/wiki/image/jlink_install.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsrivshu944%2FXMC-for-Arduino.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsrivshu944%2FXMC-for-Arduino?ref=badge_shield)
 
 If you are downloading J-Link for the first time, make sure to check this box: Install USB Driver for J-Link.
 
@@ -132,3 +133,7 @@ Also see [Wiki](https://github.com/Infineon/XMC-for-Arduino/wiki) for any additi
 ## Additional Contributors
 
 * [Paul Carpenter](https://github.com/techpaul)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsrivshu944%2FXMC-for-Arduino.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsrivshu944%2FXMC-for-Arduino?ref=badge_large)
